@@ -1,6 +1,32 @@
 # ADLab
 Active Directory management lab
 
+📌 Lab Overview
+This project showcases my ability to work with Windows Server 2022 Active Directory Domain Services (AD DS) and manage users, groups, and security policies using Group Policy Objects (GPOs).
+
+The lab includes:
+
+Creating Organizational Units (OUs)
+
+Managing user accounts
+
+Resetting passwords
+
+Creating and applying multiple GPOs
+
+Enforcing password complexity
+
+Disabling removable media
+
+Mapping a network drive via GPO
+
+🧰 Technologies Used
+Windows Server 2022
+
+Active Directory Domain Services (AD DS)
+
+Group Policy Management Console (GPMC)
+
 ![image alt](https://github.com/nathanb565/ADLab/blob/b6b50138baa1af0e5397d8064e40a673af6c683c/MakingOUs.png)
 ![image alt](https://github.com/nathanb565/ADLab/blob/72d8721f5c62d6df071ba55343c2fe5b9820bc1f/MakingOUs2.png)
 ![image alt](https://github.com/nathanb565/ADLab/blob/7116b448134a0367585ae897d890e439a8ad62a7/Users.png)
